@@ -1,7 +1,5 @@
 # SenpAI
 
-# SenpAI
-
 SenpAI is an AI-powered platform designed to revolutionize education by offering personalized learning experiences. Tailoring lessons, quizzes, and resources to the individual needs. SenpAI aims to bridge the education gap, particularly in underserved communities. By focusing on accessibility, scalability, and inclusivity, SenpAI contributes to the United Nations’ Sustainable Development Goals (SDG 4: Quality Education and SDG 10: Reduced Inequalities).
 
 
