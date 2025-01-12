@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "616860048210",
+    "project_id": "senpai-33293",
+    "storage_bucket": "senpai-33293.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616860048210:android:b17b23ce309e3b26ba788b",
+        "android_client_info": {
+          "package_name": "com.mycompany.senpai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616860048210-3kppqetqedi2tvc93mn4tdldl624a1b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2KXM4yPd4ER6DpTloVlYAhww-qGmyPdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616860048210-3kppqetqedi2tvc93mn4tdldl624a1b8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "616860048210-jkb0ioafd67bafheiin6v2omj011bju6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.senpai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
